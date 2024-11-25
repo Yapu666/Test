@@ -1,0 +1,19 @@
+.tour img{
+    height: 300px;
+}
+.hero{
+    background: linear-gradient(rgba(135, 207, 235, 0.33),rgba(0, 0, 255, 0.388)), url(https://cdn.mos.cms.futurecdn.net/xaycNDmeyxpHDrPqU6LmaD.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+.logo{
+    width: 90px;
+}
+.nav-expand-lg .navbar-nav .nav-link{
+    color: white
+}
+.nav-pills .nav-link.active{
+    background: transparent;
+    color: black;
+    font-weight: bold;
+}
